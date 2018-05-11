@@ -1,0 +1,16 @@
+//Import Styles
+@import 'partials/reset';
+@import 'partials/fonts';
+@import 'modules/variables';
+@import "../node_modules/bootstrap/scss/bootstrap-grid";
+@import 'modules/mixins';
+@import 'modules/classes';
+@import 'partials/icon';
+@import 'partials/buttons';
+@import 'partials/text';
+
+//Pages
+@import 'pages/pages';
+
+//Meida
+@import 'partials/media';
